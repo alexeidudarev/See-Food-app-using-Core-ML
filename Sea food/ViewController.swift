@@ -35,7 +35,7 @@ class ViewController: UIViewController,UIImagePickerControllerDelegate,UINavigat
             }
             detect(image: ciimage)
         }
-        
+
         imagePicker.dismiss(animated: true, completion: nil)
         
     }
