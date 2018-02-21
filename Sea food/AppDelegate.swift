@@ -2,7 +2,6 @@
 //  AppDelegate.swift
 //  Sea food
 //
-//  Created by hackeru on 21/02/2018.
 //  Copyright © 2018 alexei dudarev. All rights reserved.
 //
 
